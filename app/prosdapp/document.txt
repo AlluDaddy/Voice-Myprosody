@@ -1,0 +1,10 @@
+speech rate or articulation rate : syllables/sec 
+                 the number of perceptually fluent syllables in each utterance divided by the duration (in seconds) of the utterance, removing all instances of stuttering-like disfluencies, other disfluencies, and pauses that were longer than 250 ms.
+balance : (speaking_duration) / (original_duration)
+f0_mean : (global mean of fundamental_frequency_distribution)
+f0_median : (global median of fundamental_frequency_distribution)
+f0_std : (global standard deviation of fundamental_frequency_distribution)
+f0_min : (global minimum of fundamental_frequency_distribution)
+f0_max : (global maximum of fundamental_frequency_distribution)
+f0_quantile25 : (global maximum of fundamental_frequency_distribution)
+f0_quan75 : (global maximum of fundamental_frequency_distribution)
